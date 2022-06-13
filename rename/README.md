@@ -9,6 +9,8 @@
 下载并安装[Python](https://www.python.org/ftp/python/3.9.8/python-3.9.8-amd64.exe)
 
 ### 使用
-1. 打开cmd或者powershell
+1. 打开cmd或者powershell![](https://raw.githubusercontent.com/AstralHope/litecode/main/Pic/cmd.png)![](https://raw.githubusercontent.com/AstralHope/litecode/main/Pic/powershell.png)
+
+
 2. 使用`cd`命令跳转到指定目录
-3. 执行`python ./rename.py`完成重命名
+3. 执行`python ./rename.py`完成重命名![](https://raw.githubusercontent.com/AstralHope/litecode/main/Pic/rename.png)
